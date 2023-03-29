@@ -1,5 +1,5 @@
 # Top Trumps Project
-This project was created by myself as a final project to pass the Intro to Python & Apps course provided by Code First Girls.
+This project was created by myself as a final project to pass the Intro to Python & Apps kickstarter course provided by Code First Girls.
 
 
 ## Requirement
