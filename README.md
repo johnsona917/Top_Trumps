@@ -20,7 +20,7 @@ The requirement was to create a programme to simulate a game of Top Trumps using
 + Could have code to prevent input errors.
 
 ### Would have:
-+ Would have code to enable to computer to choose a stat based on which one had a better chance of winning, rather than choosing at random.
++ Would have code to enable the computer to choose a stat based on which one had a better chance of winning, rather than choosing at random.
 
 
 ## Result
